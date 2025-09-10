@@ -60,6 +60,13 @@
   align-self: stretch;
   margin-right: 2.5rem;
 
+  &__btn--add-recipe,
+  &__btn--add-recipe span,
+  &__btn--add-recipe svg {
+    color: #f38e82 !important;
+    fill: #f38e82 !important;
+  }
+
   &__list {
     list-style: none;
     display: flex;
