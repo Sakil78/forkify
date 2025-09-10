@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Sass cache
+.sass-cache/
+
+# Parcel cache
+.parcel-cache/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Images cache
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Misc
+*.swp
+*.bak
+*.tmp
