@@ -3,7 +3,9 @@
 ![Forkify Logo](src/img/logo.png)
 
 A modern recipe search and management app built with JavaScript, Sass, and Parcel. Easily search for recipes, view details, and upload your own creations.
-
+# Important details
+- Supports up to 100 API requests per hour.
+- Search terms are limited. Search for "pizza" or another meal from this list ↓
 # Available search queries
 - carrot
 - broccoli
